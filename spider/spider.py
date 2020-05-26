@@ -1,3 +1,4 @@
+# Using Python 3.8.3 64-bit
 import scrapy
 
 class QuotesSpider(scrapy.Spider):
